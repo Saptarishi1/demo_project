@@ -1,1 +1,1 @@
-# demo_project
+Project of Car Price Prediction
